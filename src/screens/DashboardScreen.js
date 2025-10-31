@@ -90,6 +90,7 @@ const styles = StyleSheet.create({
     alignItems: 'center' },
 
   balanceLabel: { fontSize: 18, 
+    fontWeight:'bold',
     color: '#555' },
 
   balanceAmount: { fontSize: 32, 

@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   container: { flex: 1, 
     justifyContent: 'center',
      padding: 20, 
-     backgroundColor: '#f0f2f5' },
+     backgroundColor: '#white' },
 
   title: { fontSize: 24, 
     fontWeight: 'bold', 
